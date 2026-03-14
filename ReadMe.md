@@ -54,7 +54,7 @@
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="50">  <b>About Me</b>
-I am Victor, a student and tech enthusiast with a passion for web development. Constantly exploring new technologies and embracing challenges.
+I am Victor, a tech enthusiast with a passion for web development. Constantly exploring new technologies and embracing challenges.
 
 
 
